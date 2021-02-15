@@ -6,6 +6,8 @@ header-includes: |
     \usepackage[top=2cm, bottom=2.5cm, left=2cm, right=2cm]{geometry}   
 ---
 
+<html>
+<body>
 ## En quoi la laïcité promeut-elle des valeurs d'égalité, de liberté de conscience et de respect ?
 
 ## I - L'histoire de la laïcité
@@ -38,5 +40,8 @@ La République Laïque repose alors sur 4 pilliers:
 
 ## II - Les valeurs que défend la laïcité dans la République
 
+$e^{i\pi} + 1 = 0$
 
 
+</body>
+</html>
