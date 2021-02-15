@@ -27,7 +27,13 @@ $\implies$ débats à l'Assemblée Nationale:
 
 En 1905 : la loi sur la séparation de l'Église et de l'état
 
+Cette loi met fin à un siècle de conflit
 
+La République Laïque repose alors sur 4 pilliers:
+ 
+ - Séparation de L'Eglise et de l'Etat (1905)
+ - Déclaration des droits de l'homme et du citoyen (1789)
+ - Constitution de la Vème République (1958)
 
 
 ## II - Les valeurs que défend la laïcité dans la République
