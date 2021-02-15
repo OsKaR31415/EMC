@@ -8,14 +8,19 @@ header-includes: |
 
 ## En quoi la laïcité promeut-elle des valeurs d'égalité, de liberté de conscience et de respect ?
 
-##  I - Valeurs d'égalité
+## I - L'histoire de la laïcité
 
-$\implies$ évident car aucune religiion n'est reconnue
+En france depuis 1801, l'Etat est lié à l'Eglise avec le Concordat.
 
-## II - Liberté de conscience
+$\longrightarrow$ scission entre la France catholique et Républicaine
 
-$\implies$ puisque les religions ne sont pas reconnues, il ne semble pas évident de dire que le gouvernement pourra assurer une liberté de conscience 
+En 1882, l'école laïque est créé.
 
-## III - Respect
+$\longrightarrow$ Emile Combes controlle des cultes
 
+En 1905 : la loi sur la séparation de l'Église et de l'état
+
+
+
+## II - Les valeurs que défend la 
 
