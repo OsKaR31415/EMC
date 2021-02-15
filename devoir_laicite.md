@@ -20,13 +20,17 @@ $\longrightarrow$ Emile Combes controlle des cultes, s'oppose aux religions
 
 $\implies$ 1902: 2500 établissement catholique sont fermés
 
-En 1905 : la loi sur la séparation de l'Église et de l'état
-
 $\implies$ débats à l'Assemblée Nationale: 
 
-    - Emiles Combes et ses partisans (défendent la laïcité)
-    - 
+ - Emiles Combes et ses partisans (défendent la laïcité)
+ - Aristide Briand (Républicains): loi de compromis, respect des libertés individuelles
+
+En 1905 : la loi sur la séparation de l'Église et de l'état
 
 
-## II - Les valeurs que défend la 
+
+
+## II - Les valeurs que défend la laïcité dans la République
+
+
 
