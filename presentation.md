@@ -34,32 +34,30 @@ $\implies$ 1902: 2500 établissement catholique sont fermés
 
 \pause{}
 
-$\implies$ débats à l'Assemblée Nationale:
+---
+
+### débats houleux à l'Assemblée Nationale:
 
 \pause{}
 
-- Emiles Combes et ses partisans (défendent la laïcité)
+- Emiles Combes (a gauche) et ses partisans défendent la laïcité
 
 \pause{}
 
-- Aristide Briand (Républicains): loi de compromis, respect des libertés individuelles
+- Aristide Briand (a droite) (et les Républicain): loi de compromis, respect des libertés individuelles
 
 \pause{}
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/%C3%89mile_Combes.jpg/220px-%C3%89mile_Combes.jpg">
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/%C3%89mile_Combes.jpg/220px-%C3%89mile_Combes.jpg){width=53.3%}\ ![](https://upload.wikimedia.org/wikipedia/commons/4/45/Aristide_Briand_2.jpg){width=46.15%}
 
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Aristide_Briand_2.jpg">
+---
 
-
-\pause{}
-
-En 1905 : la loi sur la séparation de l'Église et de l'état
+Finalement, en 1905 : la loi sur la séparation de l'Église et de l'état (projet d'Aristide Briand) : l'église est séparée mais non contrainte (comme l'aurait souhaité Emiles Combes)
 
 $\implies$ met fin à un siècle de conflit
 
-
-
+$\implies$ loi souvent considérée comme la base de la laïcité en France
 
 ---
 
