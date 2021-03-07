@@ -1,7 +1,7 @@
 ---
 title: Pluralisme des croyances et laïcité
 author: Benoit Leroux, Oscar Plaisant
-documentclass: scrartcl
+documentclass: beamer
 header-includes: |
     \usepackage[top=2cm, bottom=2.5cm, left=2cm, right=2cm]{geometry}   
 ---
@@ -40,7 +40,6 @@ La République Laïque repose alors sur 4 pilliers:
 
 ## II - Les valeurs que défend la laïcité dans la République
 
-$e^{i\pi} + 1 = 0$
 
 
 </body>
